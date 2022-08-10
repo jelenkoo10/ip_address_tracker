@@ -27,8 +27,8 @@ Users should be able to:
 
 - Desktop and mobile design screenshots:
 
-![](./images/screenshot1.jpg)
-![](./images/screenshot2.jpg)
+![](./images/screenshot1.JPG)
+![](./images/screenshot2.JPG)
 
 ### Links
 
